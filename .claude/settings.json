@@ -1,0 +1,12 @@
+{
+  "enabledPlugins": {
+    "expo-app-design@expo-plugins": true,
+    "expo-deployment@expo-plugins": true,
+    "upgrading-expo@expo-plugins": true,
+    "postgres-best-practices@supabase-agent-skills": true,
+    "ui-design@claude-code-workflows": true,
+    "frontend-mobile-development@claude-code-workflows": true,
+    "database-design@claude-code-workflows": true,
+    "debugging-toolkit@claude-code-workflows": true
+  }
+}

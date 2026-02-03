@@ -23,3 +23,8 @@ android
 
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
+
+# Claude
+.claude/settings.local.json
+.claude/*.local.md
+.mcp.json
